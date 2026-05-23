@@ -3,7 +3,7 @@
   Si vous n'avez pas encore de visuel, vous pouvez supprimer la balise <img> ou utiliser un placeholder.
 -->
 <div align="center">
-  <img src="https://via.placeholder.com/800x200/0d1117/ffffff?text=MASKAI+Legal+Firewall" alt="MASKAI Banner" width="100%" />
+  <img src="https://maskai.fr/logo.png" alt="MASKAI Banner" width="100%" />
 </div>
 
 <div align="center">
