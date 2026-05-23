@@ -3,7 +3,7 @@
   Si vous n'avez pas encore de visuel, vous pouvez supprimer la balise <img> ou utiliser un placeholder.
 -->
 <div align="center">
-  <img src="https://maskai.fr/logo.png" alt="MASKAI Banner" width="100%" />
+  <img src="https://github.com/Mask-AI-FR/.github/blob/main/Logo%20(2).png?raw=true" alt="MASKAI Banner" width="20%" />
 </div>
 
 <div align="center">
