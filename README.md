@@ -48,5 +48,5 @@
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-MASKAI-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/company/maskai)
   
   <br/>
-  <sub>© 2025 MASKAI. Tous droits réservés.</sub>
+  <sub>© 2026 MASKAI. Tous droits réservés.</sub>
 </div>
