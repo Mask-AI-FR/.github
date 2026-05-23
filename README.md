@@ -43,7 +43,7 @@
   
   ## 📬 Restez informé
   
-  [![Site Web](https://img.shields.io/badge/🌐_Site_Web-maskai.io-blue?style=flat-square)](https://maskai.io)
+  [![Site Web](https://img.shields.io/badge/🌐_Site_Web-maskai.io-blue?style=flat-square)](https://maskai.fr)
   [![Twitter](https://img.shields.io/badge/Twitter-@MASKAI__HQ-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/MASKAI_HQ)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-MASKAI-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/company/maskai)
   
