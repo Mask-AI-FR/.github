@@ -38,13 +38,11 @@ MASKAI est un espace de travail IA français qui **masque les données sensibles
 
 ## Le masque, en trois étapes
 
-```mermaid
-flowchart LR
-    A["Votre demande<br/>(noms, adresses, sociétés, numéros)"] --> B["① Masqué avant l'envoi<br/>serveurs en France"]
-    B -->|"[Personne 1], [Société 1]…"| C["IA choisie<br/>ChatGPT · Claude · Gemini · Mistral"]
-    C --> D["② Remis dans la réponse<br/>vraies valeurs, pour vous seul"]
-    D --> E["③ Noté dans l'historique<br/>qui, quand, quelle IA"]
-```
+<div align="center">
+
+**✍️ Votre demande** &nbsp;→&nbsp; **🔒 Masquage en France** &nbsp;→&nbsp; **🤖 IA choisie** &nbsp;→&nbsp; **🔓 Réponse restaurée** &nbsp;→&nbsp; **🗂️ Historique**
+
+</div>
 
 | | Étape | Ce qui se passe |
 |:-:|---|---|
@@ -123,8 +121,6 @@ Pour tous ceux qui travaillent avec des informations confidentielles :
 ## L'équipe
 
 Une petite équipe à Lyon, un seul sujet : la confidentialité. MASKAI est né d'une question posée par des avocats : *« Comment utiliser l'IA sans lui confier les données sensibles de nos clients ? »* Le produit a été testé avec des cabinets d'avocats lyonnais pendant la bêta.
-
-MASKAI est édité par **AXOR 2.0** (Limonest, Lyon, France).
 
 → [Rencontrer l'équipe](https://maskai.fr/a-propos)
 
